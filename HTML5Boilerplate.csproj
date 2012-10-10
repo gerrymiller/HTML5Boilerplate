@@ -151,6 +151,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="humans.txt" />
+    <None Include="README" />
+    <None Include="LICENSE" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\libs\jquery-1.8.2.min.js" />
     <Content Include="Scripts\libs\modernizr-2.6.1.min.js" />
